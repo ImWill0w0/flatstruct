@@ -1,0 +1,15 @@
+{
+    sound.lights =
+    {
+        type = "hlvr_default_3d"
+        volume = 1.000000
+        use_hrtf = 1.000000
+        vsnd_files = 
+        [
+            "sounds/lights1.vsnd",
+			"sounds/lights2.vsnd",
+			"sounds/lights3.vsnd",
+			"sounds/lights4.vsnd",
+        ]
+	}
+}
